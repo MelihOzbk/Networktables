@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Networktables
 
 Python-Java ROBORIO için türkçe ornekler Güncellik açısından bilgiler
